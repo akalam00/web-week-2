@@ -1,0 +1,3 @@
+# Basid Web Template
+
+This is a basic web template for projects. After cloning this is to the local computer remember to change the origin with $ git remote set-url origin ..... 

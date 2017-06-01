@@ -1,6 +1,75 @@
-*{
+* {
 	box-sizing: border-box;
-	padding:0; 
-	margin:0;
+ 	 margin: 0;
+ 	 padding: 0;
+}
+
+
+nav.about-nav {
+  min-height: 60px;
+  line-height: 60px;
+  background: black;
+  padding: 0;
+}
+
+.cric{
+	font-size:x-large;
+}
+
+ul {
+  float: right;
+  font-size: 30px;
+  color: #CBCBCB;
+  min-height: 60px;
+  line-height: 60px;
+}
+
+nav li{
+	float: left;
+	list-style: none;
+	padding:10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.building{
+	border-style: double;
+	border-width: 10px;
+	border-color: green;
+}
+
+h1{
+	text-align: center;
+	font-size:36px;
+	border:2px solid black;
+	padding:10px;
+}
+
+.web{
+	clear:both;
+}
+
+img{
+	width:100%;
+}
+
+.html{
+	width:33%;
+	float:left;
+	padding:10px;
+}
+
+.css{
+	width:33%;
+	float:left;
+	padding:10px;
+}
+
+.js{
+	width:33%;
+	float:left;
+	padding:10px;
 
 }
